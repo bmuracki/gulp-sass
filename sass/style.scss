@@ -1,0 +1,17 @@
+
+$fontSize: 14px;
+
+html,
+body {
+  font-family: Tahoma;
+  font-size: $fontSize;
+  background-color:pink;
+}
+
+div.main {
+  text-align: center;
+  padding:10px;
+  border:1px solid red;
+  width:50%;
+  margin:0 auto;
+}
